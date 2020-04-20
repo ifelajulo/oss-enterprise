@@ -1,4 +1,4 @@
-# Getting Started with Open Source in the Enterprise
+# Geting Started with Open Source in the Enterprise
 
 Welcome to the course on **Getting Started with Open Source in the Enterprise**. We are excited to have  you  join in this journey and look forward to helping you meet your OSS goals.
 
